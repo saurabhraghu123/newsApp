@@ -1,0 +1,95 @@
+{
+    "homepage": {
+        "banner": [
+            "https://images.unsplash.com/photo-1549923015-badf41b04831?q=80&w=1753&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://static.india.com/wp-content/uploads/2021/04/IPL-LOGO.jpg",
+            "https://images.unsplash.com/photo-1549923015-badf41b04831?q=80&w=1753&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://static.india.com/wp-content/uploads/2021/04/IPL-LOGO.jpg"
+        ],
+        "categories": [
+            {
+                "imageuRL": "https://cdn-icons-png.flaticon.com/128/7679/7679938.png",
+                "heading": "My Feed"
+            },
+            {
+                "imageuRL": "https://tse2.mm.bing.net/th?id=OIP.IqFBynnHGCKJTQoLj5MvLQAAAA&pid=Api&P=0&h=180",
+                "heading": "All News"
+            },
+            {
+                "imageuRL": "https://cdn-icons-png.flaticon.com/512/118/118669.png",
+                "heading": "Top Stories"
+            },
+            {
+                "imageuRL": "https://cdn-icons-png.flaticon.com/512/1942/1942144.png",
+                "heading": "Treandings"
+            },
+            {
+                "imageuRL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL1jnl2HvAjfCgLTmmHqHFASdmhvC446LhhTyg_OJaoS9N8wZ9c1xQ6PDw6s0V8o_udxo&usqp=CAU",
+                "heading": "Bookmarks"
+            },
+            {
+                "imageuRL": "https://johanneskinzig.de/images/misc/unread_news/logo_unread_news.jpg",
+                "heading": " Unread"
+            }
+        ],
+        "notifications": [
+            {
+                "imageuRL": "https://www.hindustantimes.com/ht-img/img/2024/05/16/550x309/FRANCE-FILM-FESTIVAL-CANNES-298_1715841500757_1715842151015.jpg",
+                "text": "Australian actor Chris Hemsworth (right), British-US actor Anya Taylor-Joy."
+            },
+            {
+                "imageuRL": "https://www.hindustantimes.com/ht-img/img/2024/05/17/550x309/Aishwarya_Rai_3_1715914412475_1715914412649.jpg",
+                "text": "Aishwarya Rai posed for photographers at the premiere of the film Megalopolis at the 77th Cannes Film Festival."
+            },
+            {
+                "imageuRL": "https://www.hindustantimes.com/ht-img/img/2024/05/16/550x309/wedding_date_1715853041403_1715853094979.jpg",
+                "text": "In July 2023, as Katrina Kaif turned 40, husband Vicky Kaushal e birthday celebrations amid sun and sand"
+            }
+        ],
+        "insights": [
+            "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_480/lsci/db/PICTURES/CMS/381000/381021.jpg",
+            "https://media.istockphoto.com/id/1320271644/photo/cricket-leather-ball-resting-on-bat-on-the-stadium-pitch-bright-stadium-lights-projecting-on.jpg?s=612x612&w=0&k=20&c=XHO1UNtibddJgcN6OtsIotCrSq73Wkr3g0Yk-PoKY2U=",
+            "https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZ1bGwlMjBoZCUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D",
+            "https://images.unsplash.com/photo-1530075288903-69b220251c3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZ1bGwlMjBoZCUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D",
+            "https://www.hindustantimes.com/ht-img/img/2024/05/16/550x309/Vicky_Kaushal_dropped_an_unseen_picture_1715851940170_1715851956306.jpg",
+            "https://www.hindustantimes.com/ht-img/img/2024/05/17/550x309/Aishwarya_Rai_Bachchans_unflattering_looks_1715930361591_1715930361757.jpg",
+            "https://1847884116.rsc.cdn77.org/hindi/news/kangana960524_2-d98.jpg",
+            "https://1847884116.rsc.cdn77.org/hindi/news/salman020424_2-2d0.jpg"
+        ],
+        "topics": [
+            "https://media.istockphoto.com/id/846032496/photo/close-up-of-wooden-stump-by-batsman-standing-on-field.jpg?s=612x612&w=0&k=20&c=zHmrvSemZXJzk2AmMCgcmeqUJozhZByBQJgbWkbjLTI=",
+            "https://media.istockphoto.com/id/846032496/photo/close-up-of-wooden-stump-by-batsman-standing-on-field.jpg?s=612x612&w=0&k=20&c=zHmrvSemZXJzk2AmMCgcmeqUJozhZByBQJgbWkbjLTI=",
+            "https://media.istockphoto.com/id/846032496/photo/close-up-of-wooden-stump-by-batsman-standing-on-field.jpg?s=612x612&w=0&k=20&c=zHmrvSemZXJzk2AmMCgcmeqUJozhZByBQJgbWkbjLTI=",
+            "https://media.istockphoto.com/id/846032496/photo/close-up-of-wooden-stump-by-batsman-standing-on-field.jpg?s=612x612&w=0&k=20&c=zHmrvSemZXJzk2AmMCgcmeqUJozhZByBQJgbWkbjLTI=",
+            "https://media.istockphoto.com/id/846032496/photo/close-up-of-wooden-stump-by-batsman-standing-on-field.jpg?s=612x612&w=0&k=20&c=zHmrvSemZXJzk2AmMCgcmeqUJozhZByBQJgbWkbjLTI=",
+            "https://media.istockphoto.com/id/846032496/photo/close-up-of-wooden-stump-by-batsman-standing-on-field.jpg?s=612x612&w=0&k=20&c=zHmrvSemZXJzk2AmMCgcmeqUJozhZByBQJgbWkbjLTI="
+        ],
+        "othernotifications": [
+            {
+                "imageuRL": "https://media.istockphoto.com/id/1922024791/photo/side-view-of-excited-indian-father-and-daughter-shouting-as-india-while-watching-cricket-on.jpg?s=2048x2048&w=is&k=20&c=0wg3Mof4yGlU6t2sOKaS07kXs6A4GqpNOtWKeznnG1I=",
+                "text": "There's another scenario, though quite unrealistic, that would see neither RCB, nor CSK qualify for the playoffs."
+            },
+            {
+                "imageuRL": "https://media.istockphoto.com/id/1733455091/photo/closeup-shot-of-a-young-indian-woman-celebrating-the-indian-cricket-teams-victory-watching-a.jpg?s=612x612&w=0&k=20&c=8gDbXjYzXicYVZsZUUPcNm0OtL78I_fJPCghPC5Ma9E=",
+                "text": "The Faf du Plessis-led side need to beat CSK by a margin of at least 18 runs, first and put 200 runs on the board "
+            },
+            {
+                "imageuRL": "https://c.ndtvimg.com/2024-05/3mila05o_prithvi-shaw-bcci_625x300_16_May_24.jpg?im=FaceCrop,algorithm=dnn,width=210,height=158&output-quality=80",
+                "text": "Delhi Capitals assistant coach Pravin Amre opened up about the exclusion of Prithvi Shaw from the playing XI for the past  "
+            },
+            {
+                "imageuRL": "https://c.ndtvimg.com/2024-05/h83s0lr8_dhoni-and-kohli-bcci_625x300_17_May_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+                "text": "The Indian Premier League (IPL) 2024 has entered an intriguing stage where there's just one spot left for the playoffs "
+            }
+        ],
+        "polls": [
+            "https://media.istockphoto.com/id/1277965612/photo/conceptual-image-of-a-person-voting-during-elections.jpg?s=612x612&w=0&k=20&c=lNfkt2SMrYFPEl6CQPxWACuHEMQs-WArSkGhsCs6EP4=",
+            "https://img.freepik.com/free-vector/instagram-poll-sticker-set_23-2150310308.jpg?size=626&ext=jpg&ga=GA1.1.1375941191.1715145544&semt=sph",
+            "https://img.freepik.com/free-vector/instagram-poll-sticker-set_23-2150306051.jpg?size=626&ext=jpg&ga=GA1.1.1375941191.1715145544&semt=sph ",
+            "https://img.freepik.com/free-vector/instagram-poll-sticker-set_23-2150317755.jpg?size=626&ext=jpg&ga=GA1.1.1375941191.1715145544&semt=sph",
+            "https://img.freepik.com/premium-vector/poll-window-3-different-style-answer-input-chose-option-slider-storie-quiz-social-media_87408-195.jpg?size=626&ext=jpg&ga=GA1.1.1375941191.1715145544&semt=sph",
+            "https://media.istockphoto.com/id/1255690353/photo/woman-tap-vote-button-on-digital-tablet-voting-online-concept.jpg?s=612x612&w=0&k=20&c=mXpcIm0HGZIMAE3oEFGEr3WhqR_-NdhGLbzr2tw_nIA=",
+            "https://media.istockphoto.com/id/1206255813/photo/mature-female-polling-place-volunteer-assists-voter.jpg?s=612x612&w=0&k=20&c=L7lBF1v65vNljekNx5TupGzLxMpDhgm3ZdWeBOA8Orc="
+        ]
+    }
+}
